@@ -1,0 +1,6 @@
+{
+  "name": "Cookie Atelier",
+  "description": "Landing page artesanal para atelier de cookies frescos, receitas autorais e caixas personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
